@@ -1,0 +1,31 @@
+{
+  "landmarks": [
+    {
+      "name": "Chinatown – Smith Street",
+      "coordinates": {"lat": 1.2821324, "lng": 103.8444774},
+      "elevation": null
+    },
+    {
+      "name": "National Museum of Singapore",
+      "coordinates": {"lat": 1.296722, "lng": 103.848639},
+      "elevation": null
+    },
+    {
+      "name": "Fort Canning Park",
+      "coordinates": {"lat": 1.29444, "lng": 103.84694},
+      "elevation": 48
+    }
+  ],
+  "distances_km": {
+    "Chinatown_to_NationalMuseum": 1.69,
+    "NationalMuseum_to_FortCanning": 0.32,
+    "total": 2.01
+  },
+  "estimated_time_minutes": 24,
+  "cafe": {
+    "name": "Café Monochrome",
+    "coordinates": {"lat": 1.2823862, "lng": 103.8441553},
+    "address": "Café Monochrome, Smith Street, Chinatown, Tanjong Pagar, Outram, Central Region, Singapore, 058476, Singapore",
+    "place_id": "237435029"
+  }
+}
